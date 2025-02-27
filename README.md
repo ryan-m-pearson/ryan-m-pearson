@@ -1,4 +1,4 @@
-## Hi! My name is Ryan. 
+## Hi, My name is Ryan!
 
 ## I'm a technical writer with minimal software/coding documentation experience looking to use Github to learn, collaborate, and build the experience necessary for a career in this space. 
 
