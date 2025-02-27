@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is Ryan. 
+
+### I'm a technical writer with minimal software/coding documentation experience looking to use Github to learn, collaborate, and build the experience necessary for a career in this space. 
 
 <!--
 **ryan-m-pearson/ryan-m-pearson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
